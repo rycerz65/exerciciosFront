@@ -1,0 +1,13 @@
+
+p:hover{
+    
+    opacity: 0;
+    right: 0;
+}
+
+
+ 
+p {
+  position: relative;
+  transition: 0.5s;
+}

@@ -1,0 +1,12 @@
+input{
+    background-color: aqua;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+input:valid{
+
+    background-color: blueviolet;
+    transition: 2s;
+}

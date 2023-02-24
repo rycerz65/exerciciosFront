@@ -1,0 +1,18 @@
+button{   
+    
+    width: 300px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: auto;
+    
+
+
+}
+
+button:hover{
+    transform: scale(40.0);
+
+}
